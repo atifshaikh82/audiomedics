@@ -1,0 +1,842 @@
+Build a premium ecommerce website for a hearing care company called Audio Medics with a modern, elegant, medical-grade, highly trustworthy UI/UX. The site should feel premium, accessible, clean, and conversion-focused, similar to a top international healthcare brand mixed with a polished ecommerce experience.
+
+Brand Details
+
+Company Name: Audio Medics
+
+Tagline suggestion: Better Hearing Starts Here
+
+Business Type: Hearing aid company and audiological solutions provider
+
+Address: Plot 2&3-G Fatima Centre, 14-A Queen's Road, near Ganga Ram Hospital, Jinnah Town, Lahore, 54000
+
+Phone: +92 300 4344467
+
+Location focus: Lahore, Pakistan, with services and distributor support across Pakistan
+
+Social Links:
+
+Facebook: https://web.facebook.com/audiomedicsHEARING/?_rdc=1&_rdr#
+
+Instagram: https://www.instagram.com/audio_medics/
+
+Business About Content
+
+Use this exact business positioning in the site copy:
+“Audio Medics is a pioneer hearing aid company. We are selling audiological equipments, hearing aids, hearing aid parts, ear mold and repairing services to distributors and audiologists all over Pakistan.”
+
+Also include consumer-facing language for retail customers:
+
+hearing tests
+
+hearing aid consultation
+
+premium and affordable hearing aids
+
+cochlear implant guidance/support
+
+hearing aid parts and accessories
+
+earmolds
+
+repairs and maintenance
+
+appointments and consultations
+
+Important Build Instructions
+
+Create a fully responsive ecommerce website with:
+
+desktop-first premium layout
+
+excellent mobile experience
+
+sticky mobile CTA bar
+
+modern animations
+
+accessibility-friendly typography
+
+conversion-focused structure
+
+very strong UI polish
+
+fast page load
+
+clean semantic code
+
+SEO-ready structure
+
+reusable component architecture
+
+Use a modern frontend stack suitable for Replit:
+
+React or Next.js
+
+Tailwind CSS
+
+component-based architecture
+
+optional animation library like Framer Motion
+
+clean icons
+
+responsive navbar and mega menu if useful
+
+product cards, filters, search, wishlist-style save UI if possible
+
+appointment form
+
+contact form
+
+social proof and testimonials sections
+
+gallery section
+
+product detail pages
+
+category pages
+
+cart UI and checkout-ready structure
+
+CMS-friendly dummy data architecture so products can easily be updated later
+
+Visual Style Direction
+
+Design the site like a premium healthcare ecommerce brand:
+
+soft white backgrounds
+
+clean medical blues / teal / charcoal palette
+
+subtle gradients
+
+premium cards with soft shadows
+
+rounded corners
+
+elegant icons
+
+large readable headings
+
+clear CTAs
+
+older-adult-friendly readability
+
+reassuring imagery style
+
+trust-building layout
+
+not flashy, not noisy, not cluttered
+
+Main Navigation
+
+Create an amazing desktop and mobile navigation bar with these menu items:
+
+Home
+
+About
+
+Products
+
+Services
+
+Contact
+
+Eventy
+
+Gallery
+
+Book Appointment
+
+Interpret “Eventy” as an Events or Eventy page for workshops, awareness drives, camps, promotions, or hearing care events. If needed, label it “Events” in the UI but keep the route flexible.
+
+Also add:
+
+call now button
+
+WhatsApp CTA button
+
+book appointment button
+
+search icon
+
+cart icon
+
+social icons
+
+mobile drawer menu with premium UX
+
+Homepage Sections
+
+Build a rich homepage with these sections:
+
+Hero Section
+
+strong headline
+
+subheadline focused on hearing care and modern hearing aid technology
+
+CTA buttons: Shop Hearing Aids, Book Appointment, Call Now
+
+premium hero visual with hearing aid imagery and healthcare feel
+
+Brand Trust Bar
+Show trusted hearing aid companies:
+
+Unitron
+
+Signia
+
+Rexton
+
+Interton
+
+Danavox
+
+Cochlear for cochlear implant related solutions
+
+Why Choose Audio Medics
+
+pioneer hearing aid company
+
+trusted in Lahore and Pakistan
+
+advanced hearing solutions
+
+repairs and support
+
+distributor and audiologist network
+
+premium and affordable options
+
+Featured Product Categories
+
+Behind-the-Ear Hearing Aids
+
+Receiver-in-Canal Hearing Aids
+
+Rechargeable Hearing Aids
+
+Custom Hearing Aids
+
+Cochlear Solutions
+
+Accessories and Parts
+
+Featured Products
+Feature the Unitron products I provide below.
+
+Services Overview
+
+hearing aid consultation
+
+audiological equipment
+
+hearing aid repairs
+
+earmolds
+
+hearing aid parts
+
+fitting and adjustments
+
+distributor support
+
+cochlear implant guidance
+
+About Audio Medics
+Use the business story and create polished copy around trust and expertise.
+
+Gallery Preview
+Show clinic, products, patients, awareness events, office, and service images.
+
+Social Media / Latest Updates
+Create a section that can later pull posts manually from Facebook/Instagram. Do not scrape in production unless compliant, but structure the section so content can be updated from public links.
+
+Testimonials
+Include placeholder reviews and a layout ready for real testimonials.
+
+Appointment CTA
+Large booking CTA with phone and address.
+
+Footer
+
+address
+
+phone
+
+social links
+
+quick links
+
+appointment CTA
+
+map embed placeholder
+
+business hours placeholder
+
+Ecommerce Product Data
+
+Create product categories and product detail pages. Add these products exactly as structured below.
+
+Category Tree
+
+Hearing Aids
+
+Unitron
+
+Tempus Series
+
+Product 1
+
+Product Name: Unitron Tempus Max UP 600
+
+Category: Hearing Aids → Unitron → Tempus Series
+
+Price: PKR 85,000/-
+
+Type: Behind-the-Ear (BTE) Hearing Aid
+
+Power: Super Power / Ultra Power
+
+Fitting Channels: 10
+
+Stock Status: In stock
+
+Short Badge: Popular Choice
+
+Key Features
+
+SoundCore with Environments:
+
+Conversation in quiet
+
+Conversation in noise
+
+Quiet
+
+Sound Conductor SP:
+
+Speech enhancement
+
+Noise reduction
+
+Adaptive directionality (Multiband)
+
+Spatial Awareness: Pinna Effect
+
+Sound Stabilization:
+
+AntiShock 2
+
+Wind control
+
+Feedback manager
+
+Natural Sound Balance
+
+Experience Innovations:
+
+Log It All
+
+Patient Ratings
+
+Datalogging
+
+FLEX: Datalogging
+
+Convenience:
+
+DuoLink
+
+Telecoil and easy-t
+
+Binaural Phone
+
+Easy-DAI (Direct Audio Input)
+
+Fitting Features:
+
+Power Adaptation Manager
+
+MyMusic program
+
+Frequency Compression 2 & Bass Enhancer
+
+Tinnitus masker
+
+IntelliVent technology
+
+Streaming programs
+
+Manual programs
+
+NAL-NL2 / NAL-NL1 / DSL v5 fitting formulas
+
+Ultra Power presets
+
+Create a premium product detail page with:
+
+image gallery
+
+price block
+
+inquiry CTA
+
+add to cart button
+
+book fitting button
+
+specs tab
+
+features tab
+
+description tab
+
+Product 2
+
+Product Name: Unitron Tempus Max UP PRO
+
+Category: Hearing Aids → Unitron → Tempus Series
+
+Price: PKR 300,000/-
+
+Type: Behind-the-Ear (BTE) Hearing Aid
+
+Power: Super Power / Ultra Power
+
+Fitting Channels: 20
+
+Stock Status: Low in stock, 2 pcs left
+
+Tier: Premium high tier hearing aid
+
+Short Badge: Premium / Low Stock
+
+Key Features
+
+SoundCore with All 7 Listening Environments:
+
+Conversation in crowd
+
+Conversation in Small Group
+
+Conversation in quiet
+
+Conversation in noise
+
+Quiet
+
+Music
+
+SpeechPro:
+
+Speech Locator
+
+Speech Focus
+
+Dynamic Spatial Awareness
+
+Sound Conductor SP:
+
+Speech enhancement
+
+Noise reduction
+
+Adaptive directionality (Multiband)
+
+Dynamic Spatial Awareness: Pinna Effect
+
+Sound Stabilization:
+
+AntiShock 2
+
+Wind control
+
+Feedback manager
+
+Natural Sound Balance
+
+Experience Innovations:
+
+Log It All
+
+Patient Ratings
+
+Datalogging
+
+FLEX: Datalogging
+
+Convenience:
+
+DuoLink
+
+Telecoil and easy-t
+
+Binaural Phone
+
+Easy-DAI
+
+Fitting Features:
+
+Power Adaptation Manager
+
+Binaural MyMusic program
+
+Frequency Compression 2 & Bass Enhancer
+
+Tinnitus masker
+
+IntelliVent technology
+
+Streaming programs
+
+Manual programs
+
+NAL-NL2 / NAL-NL1 / DSL v5 fitting formulas
+
+Ultra Power presets
+
+Show low-stock treatment beautifully:
+
+small urgency badge
+
+“Only 2 left”
+
+premium highlight styling
+
+Additional Brands Section
+
+Create strong brand showcase cards and dedicated placeholder brand pages for:
+
+Unitron
+
+Signia
+
+Rexton
+
+Interton
+
+Danavox
+
+Cochlear
+
+Each brand page should have:
+
+hero banner
+
+brand summary
+
+product collection placeholder
+
+why choose this brand
+
+CTA to contact or book consultation
+
+Services Pages
+
+Create structured service pages for:
+
+Hearing Aid Consultation
+
+Audiological Equipment
+
+Hearing Aid Repairs
+
+Hearing Aid Parts
+
+Ear Mold Solutions
+
+Distributor Support
+
+Audiologist Support
+
+Cochlear Implant Guidance
+
+Book Appointment
+
+About Page
+
+Create a premium About page with:
+
+founder/company story style section
+
+mission and values
+
+Pakistan-wide support positioning
+
+hearing care expertise
+
+modern hearing technology
+
+trust-building tone
+
+team/clinic visual placeholders
+
+why people choose Audio Medics
+
+Gallery Page
+
+Create a gallery page with filter categories:
+
+Clinic
+
+Products
+
+Events
+
+Hearing Aid Fittings
+
+Awareness
+
+Repairs
+
+Team
+
+Contact Page
+
+Include:
+
+clickable phone number
+
+address
+
+embedded map placeholder
+
+social links
+
+inquiry form
+
+business hours section
+
+WhatsApp CTA
+
+emergency repair inquiry CTA
+
+Book Appointment Page
+
+Create a polished booking page with:
+
+appointment form
+
+patient name
+
+phone
+
+email
+
+hearing concern
+
+preferred date
+
+preferred time
+
+product interest
+
+notes
+
+submit CTA
+
+reassurance text
+
+call support block
+
+Social Media Handling
+
+Use the provided Facebook and Instagram links in the footer, contact page, and social widgets.
+If possible, create a content structure to manually display:
+
+latest posts
+
+product launches
+
+awareness campaigns
+
+clinic updates
+
+patient education content
+
+Do not rely on fragile scraping. Instead:
+
+create placeholder sections and content cards
+
+mention that social feeds can be connected later through compliant APIs or manual CMS updates
+
+Online Presence Guidance
+
+Use public web information only as inspiration for business context and location cues. Build the site content around:
+
+Lahore hearing aid center
+
+hearing aid experts
+
+hearing tests and solutions
+
+complete hearing solutions
+
+trusted hearing aid store
+
+Pakistan-wide distributor and audiologist support
+
+SEO Requirements
+
+Optimize pages for:
+
+Hearing Aids in Lahore
+
+Hearing Aid Store Lahore
+
+Unitron Hearing Aids Pakistan
+
+Hearing Aid Price in Pakistan
+
+Audiological Equipment Pakistan
+
+Hearing Aid Repairs Lahore
+
+Cochlear Implant Support Lahore
+
+Audio Medics Lahore
+
+Add:
+
+meta titles
+
+meta descriptions
+
+schema-friendly structure
+
+alt tags
+
+local business structured data placeholders
+
+breadcrumb navigation
+
+fast and semantic HTML
+
+UX Requirements
+
+Make the UI/UX amazing:
+
+smooth scroll
+
+animated hover states
+
+premium buttons
+
+sticky navbar
+
+sticky mobile call/book bar
+
+elegant page transitions
+
+trust badges
+
+comparison cards
+
+FAQ accordions
+
+conversion CTAs throughout
+
+accessibility contrast
+
+large readable text
+
+intuitive filters
+
+premium empty states
+
+responsive spacing and hierarchy
+
+Functional Requirements
+
+Implement:
+
+homepage
+
+about page
+
+products listing page
+
+product details page
+
+services page
+
+gallery page
+
+contact page
+
+appointment page
+
+brand pages
+
+cart UI
+
+checkout-ready layout
+
+search
+
+category filters
+
+stock badge logic
+
+featured products
+
+social links
+
+newsletter block
+
+testimonial slider
+
+Content Tone
+
+Tone should be:
+
+trustworthy
+
+premium
+
+clear
+
+helpful
+
+healthcare-oriented
+
+not overly technical
+
+easy for customers and families to understand
+
+Final Output Expectations
+
+Deliver:
+
+full frontend website
+
+polished responsive UI
+
+reusable data structure for products and brands
+
+dummy content where needed
+
+modern production-quality code
+
+easy-to-edit product JSON/data source
+
+clear folder structure
+
+comments on where to update text, products, and images
+
+Also create placeholder spots for:
+
+product images
+
+gallery images
+
+testimonials
+
+upcoming events
+
+clinic team photos
+
+Make this website look like a premium, conversion-focused hearing healthcare ecommerce platform for Pakistan.
